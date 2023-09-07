@@ -1,5 +1,5 @@
 # tic-tac-toe
-A tic-tac-toe text-based game.
+A tic-tac-toe console shell game.
 
 *It is incomplete*
 
